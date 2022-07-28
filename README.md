@@ -14,6 +14,8 @@ https://app.sushiswap.org. Feel free to read the code. More details coming soon.
 
 ## License
 
+## Node v12.22.12 (LTS) used for this project
+
 ## Truffle Command Line code used:-
 1. `truffle develop` (for using Truffle Ganache Local Blockchain functionality)
     then in,
