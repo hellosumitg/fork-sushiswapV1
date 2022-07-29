@@ -3,16 +3,16 @@
 https://app.sushiswap.org. Feel free to read the code.
 
 ## High Level Overview of SushiSwap Trading
-https://i.imgur.com/xQE1rGz.jpg
+![](https://i.imgur.com/xQE1rGz.jpg)
 
 ## Sushi(i.e SushiToken) Yield Farming 1st way
-https://i.imgur.com/PosYUEX.jpg
+![](https://i.imgur.com/PosYUEX.jpg)
 
 ## Sushi(i.e SushiToken) Yield Farming 2nd way
-https://i.imgur.com/zKPaXin.jpg
+![](https://i.imgur.com/zKPaXin.jpg)
 
 ## Migration from UniswapV2 to SushiSwap
-https://i.imgur.com/9xO0TtL.jpg
+![](https://i.imgur.com/9xO0TtL.jpg)
 
 ## Deployed Contracts / Hash
 
